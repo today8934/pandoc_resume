@@ -1,100 +1,74 @@
-Johnny Coder
-============
+# Resume
 
-----
+# 류욱상
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+---
 
-----
+> 3년차 Java 개발자로 *1,500*개 업체, 등록 카드수 *000*개, 하루 *000원*의 경비처리가 이루어지는 경비지출관리 솔루션 비즈플레이에서 풀스택 개발을 해왔습니다.  현재는 중견, 대기업 고객사 내부망에 맞춤형 경비관리 시스템 도입 및 운영, 개발을 맡고 있습니다.
 
-Education
----------
+---
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## Education
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2009-2017
+:   **전기공학과**; 가천대학교
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Experience
 
-    *Minor: Awesomeology*
+---
 
-Experience
-----------
+**비즈플레이 PPP개발센터 (2020.08 ~ 현재):**
 
-**Your Most Recent Work Experience:**
+중견, 대기업 대상 맞춤형 비즈플레이 경비관리 시스템 도입 및 운영, 개발
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+- 신세계 그룹
+- 캐논 세미컨덕터 엔지니어링
 
-* First item
+**비즈플레이 경비관리 솔루션 개발센터(2018.04 ~ 2020.08):**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+카드 영수증 PC 어플리케이션 개발 및 운영
 
-**That Other Job You Had**
+## Technical Experience
 
-Also with a short description.
+---
 
-Technical Experience
---------------------
+신규 기능 개발
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+- 신세계그룹 부서별 예산 조회 메뉴 개발(2021.06 ~ 2021.07)
+- 신세계그룹 연계현황 관리 메뉴 개발(2021.06 ~ 2021.07)
+- 신세계그룹 영수증 내 주민번호, 전화번호 입력방지 기능 개발(2021.06 ~ 2021.06)
+- 신세계그룹 전표 처리 관리 메뉴 개발(2021.02 ~ 2021.03)
+- 캐논 세미컨덕터 출퇴근 이동간 수당 계산기능 개발(2020.10 ~ 2020.11)
+- 업무용 카카오T 사용 영수증 조회 팝업 개발(2020.5 ~ 2020.6)
+- 영어, 일어, 중국어, 베트남어 4개국어 컨버전 모듈 개발(2019.10 ~ 2019.12)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+대용량 데이터 처리로직 성능 개선
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+- 카드지출 결의서 영수증 수백건 상신 시 쿼리 튜닝 및 로직 개선으로 처리시간 1/5로 단축.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+## Skill
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+---
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Backend
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Java
+- Jex
+- Eclipse, IntelliJ
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Frontend
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+- Javascript ES5
+- jQuery
 
-* Human Languages:
+DevOps
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+- PostgreSQL
+- Tomcat
+- Linux Centos
 
-* Random tidbit
+---
 
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> today8934@gmail.com • 010 2668 8161 • 32 years old
+> 📃https://www.notion.so/60ce741a766a420aa76e5f937ff85e81
+> ⚙[https://github.com/today8934](https://github.com/today8934)
