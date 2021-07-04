@@ -55,12 +55,14 @@ Backend
 
 - Java
 - Jex
-- Eclipse, IntelliJ
+- Eclipse, IntelliJ, Vim
+- SVN, Git
 
 Frontend
 
 - Javascript ES5
 - jQuery
+- HTML5, CSS3(SCSS)
 
 DevOps
 
