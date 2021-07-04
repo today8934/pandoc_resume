@@ -70,6 +70,9 @@ DevOps
 - Tomcat
 - Linux Centos
 
+Collaboration
+- Slack
+- Flow
 ---
 
 > today8934@gmail.com • 010 2668 8161
